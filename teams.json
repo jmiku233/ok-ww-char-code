@@ -2,7 +2,7 @@
   "repository": "ok-oldking/ok-ww-char-code",
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
-  "generatedAt": "2026-08-18T04:10:07.647Z",
+  "generatedAt": "2026-08-18T04:16:14.476Z",
   "totalTeams": 3,
   "totalCodes": 3,
   "teams": [
@@ -33,7 +33,7 @@
           ],
           "size": 3037,
           "sizeFormatted": "2.97 KB",
-          "modifiedAt": "2026-08-18T04:09:57.282Z"
+          "modifiedAt": "2026-08-18T03:31:24.456Z"
         }
       ]
     },
@@ -64,7 +64,7 @@
           ],
           "size": 2957,
           "sizeFormatted": "2.89 KB",
-          "modifiedAt": "2026-08-18T04:09:57.282Z"
+          "modifiedAt": "2026-08-18T03:31:31.838Z"
         }
       ]
     },
@@ -95,7 +95,7 @@
           ],
           "size": 2706,
           "sizeFormatted": "2.64 KB",
-          "modifiedAt": "2026-08-18T04:09:57.282Z"
+          "modifiedAt": "2026-08-18T03:31:38.263Z"
         }
       ]
     }

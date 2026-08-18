@@ -166,7 +166,6 @@ function generateHtml(teamsGrouped, allItems, repoName) {
   const teamsList = Object.values(teamsGrouped);
   const totalCodes = allItems.length;
   const totalTeams = teamsList.length;
-  const generatedTime = new Date().toUTCString();
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -802,7 +801,7 @@ function generateHtml(teamsGrouped, allItems, repoName) {
     </div>
 
     <footer>
-      <p>Generated automatically on ${generatedTime} &bull; <a href="https://github.com/${repoName}" target="_blank">GitHub Repository</a> &bull; <a href="${BASE_URL}/teams.json" target="_blank">teams.json</a></p>
+      <p>Wuthering Waves Character Codes &bull; <a href="https://github.com/${repoName}" target="_blank">GitHub Repository</a> &bull; <a href="${BASE_URL}/teams.json" target="_blank">teams.json</a></p>
     </footer>
   </div>
 
@@ -913,7 +912,6 @@ function main() {
       members: teamData.members,
       totalCodes: teamData.totalCodes,
       jsonUrl: teamData.jsonUrl,
-      generatedAt: new Date().toISOString(),
       codes: teamData.codes.map(c => ({
         filename: c.filename,
         downloadUrl: c.downloadUrl,
@@ -949,7 +947,6 @@ function main() {
     repository: repo,
     pageUrl: BASE_URL,
     jsonUrl: `${BASE_URL}/teams.json`,
-    generatedAt: new Date().toISOString(),
     totalTeams: Object.keys(groupedTeams).length,
     totalCodes: rawItems.length,
     teams: teamsSummary

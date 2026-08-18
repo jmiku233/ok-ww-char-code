@@ -1,0 +1,29 @@
+{
+  "name": "ok-ww-char-code",
+  "version": "1.0.0",
+  "description": "Static download directory and repository for Wuthering Waves character codes",
+  "main": "scripts/generate.js",
+  "scripts": {
+    "build": "node scripts/generate.js",
+    "generate": "node scripts/generate.js"
+  },
+  "keywords": [
+    "wuthering-waves",
+    "character-codes",
+    "static-site"
+  ],
+  "author": "ok-oldking",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ok-oldking/ok-ww-char-code.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ok-oldking/ok-ww-char-code/issues"
+  },
+  "homepage": "https://github.com/ok-oldking/ok-ww-char-code#readme"
+}

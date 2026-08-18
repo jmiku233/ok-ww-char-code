@@ -1,0 +1,32 @@
+{
+  "team": "Aemeath, Brant, Calcharo",
+  "slug": "Aemeath_Brant_Calcharo",
+  "members": [
+    "Aemeath",
+    "Brant",
+    "Calcharo"
+  ],
+  "totalCodes": 1,
+  "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Aemeath_Brant_Calcharo.json",
+  "generatedAt": "2026-08-18T04:09:11.548Z",
+  "codes": [
+    {
+      "filename": "Aemeath_Brant_Calcharo_3_1.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Brant_Calcharo_3_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Brant_Calcharo_3_1.0.0.zip",
+      "name": "Aemeath_Brant_Calcharo",
+      "description": "3",
+      "author": "3",
+      "version": "1.0.0",
+      "team": "Aemeath, Brant, Calcharo",
+      "members": [
+        "Aemeath",
+        "Brant",
+        "Calcharo"
+      ],
+      "size": 2957,
+      "sizeFormatted": "2.89 KB",
+      "modifiedAt": "2026-08-18T03:31:31.838Z"
+    }
+  ]
+}

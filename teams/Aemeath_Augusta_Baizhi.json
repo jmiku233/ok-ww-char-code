@@ -1,0 +1,32 @@
+{
+  "team": "Aemeath, Augusta, Baizhi",
+  "slug": "Aemeath_Augusta_Baizhi",
+  "members": [
+    "Aemeath",
+    "Augusta",
+    "Baizhi"
+  ],
+  "totalCodes": 1,
+  "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Aemeath_Augusta_Baizhi.json",
+  "generatedAt": "2026-08-18T04:09:11.547Z",
+  "codes": [
+    {
+      "filename": "Aemeath_Augusta_Baizhi_11_1.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Augusta_Baizhi_11_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Augusta_Baizhi_11_1.0.0.zip",
+      "name": "Aemeath_Augusta_Baizhi",
+      "description": "11",
+      "author": "11",
+      "version": "1.0.0",
+      "team": "Aemeath, Augusta, Baizhi",
+      "members": [
+        "Aemeath",
+        "Augusta",
+        "Baizhi"
+      ],
+      "size": 3037,
+      "sizeFormatted": "2.97 KB",
+      "modifiedAt": "2026-08-18T03:31:24.456Z"
+    }
+  ]
+}

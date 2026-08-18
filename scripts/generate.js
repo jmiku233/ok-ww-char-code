@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 const AdmZip = require('adm-zip');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
@@ -11,6 +12,30 @@ const CNAME_PATH = path.join(ROOT_DIR, 'CNAME');
 
 const BASE_DOMAIN = 'okwwcharcode.ok-script.com';
 const BASE_URL = `https://${BASE_DOMAIN}`;
+
+function getGitCommitTimestamp(filePath) {
+  try {
+    const relPath = path.relative(ROOT_DIR, filePath).replace(/\\/g, '/');
+    const stdout = execSync(`git log -1 --format=%ct -- "${relPath}"`, {
+      cwd: ROOT_DIR,
+      encoding: 'utf8',
+      stdio: ['pipe', 'pipe', 'ignore']
+    }).trim();
+    const parsed = parseInt(stdout, 10);
+    if (!isNaN(parsed) && parsed > 0) {
+      return parsed;
+    }
+  } catch (err) {
+    // fallback if git command fails or file is not yet committed
+  }
+
+  try {
+    const stats = fs.statSync(filePath);
+    return Math.floor(stats.mtimeMs / 1000);
+  } catch {
+    return Math.floor(Date.now() / 1000);
+  }
+}
 
 function formatBytes(bytes, decimals = 2) {
   if (!+bytes) return '0 Bytes';
@@ -90,6 +115,7 @@ function parseZipFiles() {
       .filter(Boolean);
 
     const encodedFileName = encodeURIComponent(file);
+    const timestamp = getGitCommitTimestamp(zipPath);
 
     results.push({
       filename: file,
@@ -104,7 +130,8 @@ function parseZipFiles() {
       members,
       size: stats.size,
       sizeFormatted: formatBytes(stats.size),
-      modifiedAt: stats.mtime.toISOString(),
+      timestamp,
+      modifiedAt: new Date(timestamp * 1000).toISOString(),
     });
   }
 
@@ -899,6 +926,7 @@ function main() {
         members: c.members,
         size: c.size,
         sizeFormatted: c.sizeFormatted,
+        timestamp: c.timestamp,
         modifiedAt: c.modifiedAt
       }))
     };

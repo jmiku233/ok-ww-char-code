@@ -2,8 +2,8 @@
   "repository": "ok-oldking/ok-ww-char-code",
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
-  "totalTeams": 5,
-  "totalCodes": 8,
+  "totalTeams": 6,
+  "totalCodes": 9,
   "teams": [
     {
       "team": "Aemeath, Augusta, Baizhi",
@@ -66,6 +66,38 @@
           "sizeFormatted": "2.89 KB",
           "timestamp": 1787026177,
           "modifiedAt": "2026-08-18T04:09:37.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Aemeath, Chisa, Denia",
+      "slug": "Aemeath_Chisa_Denia",
+      "members": [
+        "Aemeath",
+        "Chisa",
+        "Denia"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Aemeath_Chisa_Denia.json",
+      "codes": [
+        {
+          "filename": "Aemeath_Chisa_Denia_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Aemeath_Chisa_Denia",
+          "description": "爱达千三光翼椰果轴\n实机已几乎跑通（最后一个R2我未能找到完美的时间线），复现几率非常低，对于设备环境要求高，网络要求高，非常看BOSS和转火，只有在几乎全程打宝箱的情况下，几率相对高一些，实战价值不高。",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Aemeath, Chisa, Denia",
+          "members": [
+            "Aemeath",
+            "Chisa",
+            "Denia"
+          ],
+          "size": 93459,
+          "sizeFormatted": "91.27 KB",
+          "timestamp": 1787170469,
+          "modifiedAt": "2026-08-19T20:14:29.000Z"
         }
       ]
     },

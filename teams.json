@@ -2,8 +2,8 @@
   "repository": "ok-oldking/ok-ww-char-code",
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
-  "totalTeams": 5,
-  "totalCodes": 6,
+  "totalTeams": 6,
+  "totalCodes": 7,
   "teams": [
     {
       "team": "Aemeath, Augusta, Baizhi",
@@ -181,6 +181,34 @@
           "sizeFormatted": "24.92 KB",
           "timestamp": 1787107501,
           "modifiedAt": "2026-08-19T02:45:01.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Hiyuki_Lucilla_Suisui_进入光明_1.0.0",
+      "slug": "Hiyuki_Lucilla_Suisui_进入光明_1.0.0",
+      "members": [
+        "Hiyuki_Lucilla_Suisui_进入光明_1.0.0"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Hiyuki_Lucilla_Suisui_进入光明_1.0.0.json",
+      "codes": [
+        {
+          "filename": "Hiyuki_Lucilla_Suisui_进入光明_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hiyuki_Lucilla_Suisui_%E8%BF%9B%E5%85%A5%E5%85%89%E6%98%8E_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hiyuki_Lucilla_Suisui_%E8%BF%9B%E5%85%A5%E5%85%89%E6%98%8E_1.0.0.zip",
+          "name": "Hiyuki_Lucilla_Suisui_进入光明_1.0.0",
+          "description": "",
+          "author": "Unknown",
+          "version": "1.0.0",
+          "team": "Hiyuki_Lucilla_Suisui_进入光明_1.0.0",
+          "members": [
+            "Hiyuki_Lucilla_Suisui_进入光明_1.0.0"
+          ],
+          "size": 22240,
+          "sizeFormatted": "21.72 KB",
+          "timestamp": 1787151933,
+          "modifiedAt": "2026-08-19T15:05:33.000Z"
         }
       ]
     }

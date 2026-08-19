@@ -6,7 +6,7 @@
     "Lucilla",
     "Suisui"
   ],
-  "totalCodes": 1,
+  "totalCodes": 3,
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Hiyuki_Lucilla_Suisui.json",
   "codes": [
     {
@@ -27,6 +27,44 @@
       "sizeFormatted": "24.92 KB",
       "timestamp": 1787107501,
       "modifiedAt": "2026-08-19T02:45:01.000Z"
+    },
+    {
+      "filename": "Hiyuki_Lucilla_Suisui_进入光明2绯0洛3穗_1.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hiyuki_Lucilla_Suisui_%E8%BF%9B%E5%85%A5%E5%85%89%E6%98%8E2%E7%BB%AF0%E6%B4%9B3%E7%A9%97_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hiyuki_Lucilla_Suisui_%E8%BF%9B%E5%85%A5%E5%85%89%E6%98%8E2%E7%BB%AF0%E6%B4%9B3%E7%A9%97_1.0.0.zip",
+      "name": "Hiyuki_Lucilla_Suisui",
+      "description": "4R首4居循环3居合稳定轮椅轴，2链绯雪130，3链穗穗260，0链洛",
+      "author": "进入光明",
+      "version": "1.0.0",
+      "team": "Hiyuki, Lucilla, Suisui",
+      "members": [
+        "Hiyuki",
+        "Lucilla",
+        "Suisui"
+      ],
+      "size": 21620,
+      "sizeFormatted": "21.11 KB",
+      "timestamp": 1787153687,
+      "modifiedAt": "2026-08-19T15:34:47.000Z"
+    },
+    {
+      "filename": "Hiyuki_Lucilla_Suisui_进入光明2绯2洛3穗_1.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hiyuki_Lucilla_Suisui_%E8%BF%9B%E5%85%A5%E5%85%89%E6%98%8E2%E7%BB%AF2%E6%B4%9B3%E7%A9%97_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hiyuki_Lucilla_Suisui_%E8%BF%9B%E5%85%A5%E5%85%89%E6%98%8E2%E7%BB%AF2%E6%B4%9B3%E7%A9%97_1.0.0.zip",
+      "name": "Hiyuki_Lucilla_Suisui",
+      "description": "4R首4居循环3居合稳定轮椅轴，2链绯雪130，3链穗穗260，2链洛",
+      "author": "进入光明",
+      "version": "1.0.0",
+      "team": "Hiyuki, Lucilla, Suisui",
+      "members": [
+        "Hiyuki",
+        "Lucilla",
+        "Suisui"
+      ],
+      "size": 21618,
+      "sizeFormatted": "21.11 KB",
+      "timestamp": 1787153724,
+      "modifiedAt": "2026-08-19T15:35:24.000Z"
     }
   ]
 }

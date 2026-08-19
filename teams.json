@@ -2,8 +2,8 @@
   "repository": "ok-oldking/ok-ww-char-code",
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
-  "totalTeams": 4,
-  "totalCodes": 4,
+  "totalTeams": 5,
+  "totalCodes": 5,
   "teams": [
     {
       "team": "Aemeath, Augusta, Baizhi",
@@ -130,6 +130,38 @@
           "sizeFormatted": "2.64 KB",
           "timestamp": 1787026177,
           "modifiedAt": "2026-08-18T04:09:37.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Hiyuki, Lucilla, Suisui",
+      "slug": "Hiyuki_Lucilla_Suisui",
+      "members": [
+        "Hiyuki",
+        "Lucilla",
+        "Suisui"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Hiyuki_Lucilla_Suisui.json",
+      "codes": [
+        {
+          "filename": "Hiyuki_Lucilla_Suisui_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hiyuki_Lucilla_Suisui_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hiyuki_Lucilla_Suisui_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Hiyuki_Lucilla_Suisui",
+          "description": "编队最好为1位穗穗 2位洛瑟拉 3位绯雪 也可以在开始战斗时手动切穗穗 \n开始战斗最好马上手动鼠标中间锁定敌人，第一时间开始自动战斗\n只有2链及以上绯雪可以启动5居合，0/1链只有4居合。使用次轴应当确认自己的角色共效达到正常标准 不可以过低 绯雪共效本人为127 穗穗为270（至少应该携带精3奇幻）如果共效不够可以考虑拉一点共效\n对于矩阵深塔，由于boss刷新等问题存在，不可能保证完全实现，如果错轴可以重开，应该尽量避免打矩阵集群 防止绯雪攻击打空导致变奏能量不满 \n由于本轴对于洛瑟拉没有额外增加保护机制，如果被肘或者乱轴请重新开重新凹\n如果变奏穗穗遭遇怪物刷新转火 穗穗的入场技能可能会打不到导致变奏能量缺失 进而导致切洛瑟拉时无法变奏洛瑟拉 请注意\n由于后续新怪物可能没有累计足够的处决条 当没有处决条时 绯雪会只打三居合就结束（启动时也会只有4居）\n如果遇到洛瑟拉聚焦时间太极限 有时候会没对上的情况 请打开自定义角色代码 找到RES_HOLD_TIME = 0.8 将0.8逐步上调以合适个人对焦情况",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Hiyuki, Lucilla, Suisui",
+          "members": [
+            "Hiyuki",
+            "Lucilla",
+            "Suisui"
+          ],
+          "size": 25523,
+          "sizeFormatted": "24.92 KB",
+          "timestamp": 1787107501,
+          "modifiedAt": "2026-08-19T02:45:01.000Z"
         }
       ]
     }

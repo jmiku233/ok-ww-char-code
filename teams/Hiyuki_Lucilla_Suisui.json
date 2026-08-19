@@ -6,7 +6,7 @@
     "Lucilla",
     "Suisui"
   ],
-  "totalCodes": 2,
+  "totalCodes": 1,
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Hiyuki_Lucilla_Suisui.json",
   "codes": [
     {
@@ -27,25 +27,6 @@
       "sizeFormatted": "24.92 KB",
       "timestamp": 1787107501,
       "modifiedAt": "2026-08-19T02:45:01.000Z"
-    },
-    {
-      "filename": "Hiyuki_Lucilla_Suisui_进入光明_1.0.0.zip",
-      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hiyuki_Lucilla_Suisui_%E8%BF%9B%E5%85%A5%E5%85%89%E6%98%8E_1.0.0.zip",
-      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hiyuki_Lucilla_Suisui_%E8%BF%9B%E5%85%A5%E5%85%89%E6%98%8E_1.0.0.zip",
-      "name": "Hiyuki_Lucilla_Suisui",
-      "description": "4R首4居循环3居合稳定轮椅轴，2链绯雪130，3链穗穗260，2链洛（0链洛也行，改一个参数：HOLD_TIME: float = 1.6）复现率高",
-      "author": "进入光明",
-      "version": "1.0.0",
-      "team": "Hiyuki, Lucilla, Suisui",
-      "members": [
-        "Hiyuki",
-        "Lucilla",
-        "Suisui"
-      ],
-      "size": 21692,
-      "sizeFormatted": "21.18 KB",
-      "timestamp": 1787152897,
-      "modifiedAt": "2026-08-19T15:21:37.000Z"
     }
   ]
 }

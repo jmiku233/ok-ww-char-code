@@ -2,8 +2,8 @@
   "repository": "ok-oldking/ok-ww-char-code",
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
-  "totalTeams": 6,
-  "totalCodes": 9,
+  "totalTeams": 7,
+  "totalCodes": 10,
   "teams": [
     {
       "team": "Aemeath, Augusta, Baizhi",
@@ -181,6 +181,38 @@
           "sizeFormatted": "2.64 KB",
           "timestamp": 1787026177,
           "modifiedAt": "2026-08-18T04:09:37.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Denia, Mornye, Qingxiao",
+      "slug": "Denia_Mornye_Qingxiao",
+      "members": [
+        "Denia",
+        "Mornye",
+        "Qingxiao"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Denia_Mornye_Qingxiao.json",
+      "codes": [
+        {
+          "filename": "Denia_Mornye_Qingxiao_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Denia_Mornye_Qingxiao_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Denia_Mornye_Qingxiao_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Denia_Mornye_Qingxiao",
+          "description": "清达莫轮切轮椅轴\n实机已跑通 样本为01清01达00莫（精5异响）1号位清2号位达3号位莫\n高金队伍可能会损失伤害\n实机加了诸多保底机制 复现率高 \n但是依旧有被肘 或者莫宁E技能空了以后 轴长拉长 或者处决不及时损失伤害的情况，属于不可抗力\n目前此版本跑通无压力 依旧有改善空间，等待后续优化",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Denia, Mornye, Qingxiao",
+          "members": [
+            "Denia",
+            "Mornye",
+            "Qingxiao"
+          ],
+          "size": 65650,
+          "sizeFormatted": "64.11 KB",
+          "timestamp": 1787352088,
+          "modifiedAt": "2026-08-21T22:41:28.000Z"
         }
       ]
     },

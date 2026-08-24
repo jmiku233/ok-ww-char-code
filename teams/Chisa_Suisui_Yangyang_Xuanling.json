@@ -1,0 +1,32 @@
+{
+  "team": "Chisa, Suisui, Yangyang: Xuanling",
+  "slug": "Chisa_Suisui_Yangyang_Xuanling",
+  "members": [
+    "Chisa",
+    "Suisui",
+    "Yangyang: Xuanling"
+  ],
+  "totalCodes": 1,
+  "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Chisa_Suisui_Yangyang_Xuanling.json",
+  "codes": [
+    {
+      "filename": "Chisa_Suisui_Yangyang__Xuanling_楽山_1.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Chisa_Suisui_Yangyang__Xuanling_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Chisa_Suisui_Yangyang__Xuanling_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+      "name": "Chisa_Suisui_Yangyang:_Xuanling",
+      "description": "秧千穗轮椅轴\n样本为01秧01千00穗（精5奇幻）秧秧共效为145 千咲为139 穗穗为270实际效率应该可以不需要这么高 只需要达到标准练度即可\n实机跑通率高，增加了部分保底机制，但由于boss攻击模式不同，仍有可能出现问题。\n主要问题为千咲的强化E被打断，可能导致轴长拉的过长\n秧秧的强化E被打断 导致能量不够 会乱轴",
+      "author": "楽山",
+      "version": "1.0.0",
+      "team": "Chisa, Suisui, Yangyang: Xuanling",
+      "members": [
+        "Chisa",
+        "Suisui",
+        "Yangyang: Xuanling"
+      ],
+      "size": 45897,
+      "sizeFormatted": "44.82 KB",
+      "timestamp": 1787601518,
+      "modifiedAt": "2026-08-24T19:58:38.000Z"
+    }
+  ]
+}

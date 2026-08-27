@@ -6,7 +6,7 @@
     "Chisa",
     "Denia"
   ],
-  "totalCodes": 1,
+  "totalCodes": 2,
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Aemeath_Chisa_Denia.json",
   "codes": [
     {
@@ -27,6 +27,25 @@
       "sizeFormatted": "101.78 KB",
       "timestamp": 1787839862,
       "modifiedAt": "2026-08-27T14:11:02.000Z"
+    },
+    {
+      "filename": "Aemeath_Chisa_Denia_楽山_1.0.1.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+      "name": "Aemeath_Chisa_Denia",
+      "description": "爱达千三光翼5R2椰果轴\n样本：61爱 01达 01千\n爱125 千139 达135（仅为参考）\n位置：一号位千 二号位达 三号位爱\n实机已跑通（启动+循环，由于转火未能实现最后一个R2），复现难度极高，需要宝箱怪启动，网络无波动，在关闭游戏内插帧的情况下，需要稳定60帧及以上\nTips：如果发现启动轴最后爱弥斯变奏入场强化E没有亮起就重开\n如果发现启动轴爱弥斯仅在达尼娅R2后变奏一次，但强化E亮起 需要重开\n如果发现启动轴最后爱弥斯两次变奏入场成功，且强化E亮起，但是在R1释放前灭了，也视为失败，需要重开\n成功启动的标志为启动轴爱弥斯两次变奏入场且R1后能够接上强化E 此为完美复现\n如果失败，可以开关一下自动战斗的开关，可以更快的进行下次尝试",
+      "author": "楽山",
+      "version": "1.0.1",
+      "team": "Aemeath, Chisa, Denia",
+      "members": [
+        "Aemeath",
+        "Chisa",
+        "Denia"
+      ],
+      "size": 93760,
+      "sizeFormatted": "91.56 KB",
+      "timestamp": 1787841084,
+      "modifiedAt": "2026-08-27T14:31:24.000Z"
     }
   ]
 }

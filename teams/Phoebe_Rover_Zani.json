@@ -1,0 +1,32 @@
+{
+  "team": "Phoebe, Rover, Zani",
+  "slug": "Phoebe_Rover_Zani",
+  "members": [
+    "Phoebe",
+    "Rover",
+    "Zani"
+  ],
+  "totalCodes": 1,
+  "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Phoebe_Rover_Zani.json",
+  "codes": [
+    {
+      "filename": "Phoebe_Rover_Zani_EEEEEEEEdison_1.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Phoebe_Rover_Zani_EEEEEEEEdison_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Phoebe_Rover_Zani_EEEEEEEEdison_1.0.0.zip",
+      "name": "Phoebe_Rover_Zani",
+      "description": "赞菲光3终夜 建议用于暴打宝箱怪 赞妮0链最低效率不明，测试效率130%，菲比0链最低效率不明，测试效率128%，光主最低效率不明，测试效率149%",
+      "author": "EEEEEEEdison",
+      "version": "1.0.0",
+      "team": "Phoebe, Rover, Zani",
+      "members": [
+        "Phoebe",
+        "Rover",
+        "Zani"
+      ],
+      "size": 20313,
+      "sizeFormatted": "19.84 KB",
+      "timestamp": 1787887114,
+      "modifiedAt": "2026-08-28T03:18:34.000Z"
+    }
+  ]
+}
